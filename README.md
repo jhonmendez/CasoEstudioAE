@@ -82,4 +82,13 @@ H -->|Rechazado| J[Notificación al cliente]
 I --> K[Registro de obligación financiera]
 ```
 
+# 5. Estrategia de Negocio
+
+FinData Credit define su estrategia de negocio con base en los siguientes pilares:
+
+- Diferenciación basada en datos: Uso de analítica avanzada para evaluar el riesgo crediticio con mayor precisión.
+- Decisiones en tiempo real: Capacidad de aprobar o rechazar créditos de forma inmediata.
+- Experiencia digital superior: Proceso 100% digital, ágil y sin fricción para el usuario.
+- Integración de múltiples fuentes de datos: Uso de Open Banking y APIs externas para enriquecer el análisis.
+
 
